@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/heal/source/repos/AIAP/AIAP_Final/mlruns/432641659669708107/5c85e557f9814cfb862d1122a674edf0/artifacts
+end_time: 1718284757097
+entry_point_name: ''
+experiment_id: '432641659669708107'
+lifecycle_stage: active
+run_id: 5c85e557f9814cfb862d1122a674edf0
+run_name: Support Vector Regression
+run_uuid: 5c85e557f9814cfb862d1122a674edf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718284751506
+status: 3
+tags: []
+user_id: An Gyeonheal
