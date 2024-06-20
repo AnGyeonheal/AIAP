@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/heal/source/repos/AIAP/AIAP_Final/mlruns/721746147752522702/b24501e3a0bd4f0eb50dd4de8c0a8afb/artifacts
+end_time: 1718338931307
+entry_point_name: ''
+experiment_id: '721746147752522702'
+lifecycle_stage: active
+run_id: b24501e3a0bd4f0eb50dd4de8c0a8afb
+run_name: AdaBoost Regressor
+run_uuid: b24501e3a0bd4f0eb50dd4de8c0a8afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718338931142
+status: 3
+tags: []
+user_id: An Gyeonheal

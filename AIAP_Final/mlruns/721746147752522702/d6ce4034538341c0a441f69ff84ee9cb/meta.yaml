@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/heal/source/repos/AIAP/AIAP_Final/mlruns/721746147752522702/d6ce4034538341c0a441f69ff84ee9cb/artifacts
+end_time: 1718346217026
+entry_point_name: ''
+experiment_id: '721746147752522702'
+lifecycle_stage: active
+run_id: d6ce4034538341c0a441f69ff84ee9cb
+run_name: Session Initialized 6dce
+run_uuid: d6ce4034538341c0a441f69ff84ee9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718339523064
+status: 3
+tags: []
+user_id: An Gyeonheal

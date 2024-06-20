@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/heal/source/repos/AIAP/AIAP_Final/mlruns/534520240425816563/b27dc5b1c19c41d7ba346f748f3f6d3e/artifacts
+end_time: 1718339203463
+entry_point_name: ''
+experiment_id: '534520240425816563'
+lifecycle_stage: active
+run_id: b27dc5b1c19c41d7ba346f748f3f6d3e
+run_name: Extreme Gradient Boosting
+run_uuid: b27dc5b1c19c41d7ba346f748f3f6d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718339203293
+status: 3
+tags: []
+user_id: An Gyeonheal

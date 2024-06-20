@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/heal/source/repos/AIAP/AIAP_Final/mlruns/534520240425816563/3b3e1d6c2ece487daca61c8fa043ea9e/artifacts
+end_time: 1718362045942
+entry_point_name: ''
+experiment_id: '534520240425816563'
+lifecycle_stage: active
+run_id: 3b3e1d6c2ece487daca61c8fa043ea9e
+run_name: Random Forest Regressor
+run_uuid: 3b3e1d6c2ece487daca61c8fa043ea9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718362045002
+status: 3
+tags: []
+user_id: An Gyeonheal

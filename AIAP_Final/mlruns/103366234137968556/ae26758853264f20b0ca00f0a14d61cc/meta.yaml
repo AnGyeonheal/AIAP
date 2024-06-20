@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/heal/source/repos/AIAP/AIAP_Final/mlruns/103366234137968556/ae26758853264f20b0ca00f0a14d61cc/artifacts
+end_time: 1718332935070
+entry_point_name: ''
+experiment_id: '103366234137968556'
+lifecycle_stage: active
+run_id: ae26758853264f20b0ca00f0a14d61cc
+run_name: Linear Regression
+run_uuid: ae26758853264f20b0ca00f0a14d61cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718332934968
+status: 3
+tags: []
+user_id: An Gyeonheal
